@@ -13,12 +13,15 @@
  <h1 align="center">Hi there👋, I'm Tim!</h1>
 <h3 align="center">A full stack web developer located in Darmstadt, Germany</h3>
 
-<p>
-Since a young age I have always been interested in technology and especially computers. I enjoy solving puzzles and learning new skills that help me solve said challenges. 
-  
-What spurred me on to become a web developer was the untapped potential I saw every day when interacting with outdated, inefficient, and suboptimal solutions. Todays web offers so many great possibilites for improving everyones lives that it was simply infuriating to see how many people did not take advantage of these opportunities. 
-
-I have made it my mission to improve the user experience of as many users as possible.</p>
+<p align="center">
+Since a young age I have always been interested in technology and especially computers. I enjoy solving puzzles and learning new skills that help me solve said challenges.
+</p>
+<p align="center">
+What spurred me on to become a web developer was the untapped potential I saw every day when interacting with outdated, inefficient, and suboptimal solutions. Todays web offers so many great possibilites for improving everyones lives that it was simply infuriating to see how many people did not take advantage of these opportunities.
+</p>
+<p align="center">
+I have made it my mission to improve the user experience of as many users as possible.
+</p>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=brendondsouza&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
