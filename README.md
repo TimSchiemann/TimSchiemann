@@ -24,7 +24,7 @@ I have made it my mission to improve the user experience of as many users as pos
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=brendondsouza&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TimSchiemann&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j">
 </div>
 
 
