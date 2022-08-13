@@ -11,7 +11,7 @@
 </p>
 
  <h1 align="center">Hi there👋, I'm Tim!</h1>
-<h3 align="center">A full stack web developer located in Darmstadt, Germany</h3>
+<h3 align="center">I am a full stack web developer located in Darmstadt, Germany</h3>
 
 <p align="center">
 Since a young age I have always been interested in technology and especially computers. I enjoy solving puzzles and learning new skills that help me solve said challenges.
