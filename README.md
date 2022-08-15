@@ -36,7 +36,7 @@ I have made it my mission to improve the user experience of as many users as pos
       <h3 align="center">Performance Shop</h3>
         <br />
         <a target="_blank" href="https://car-tuning.netlify.app/">
-            <img src="" width="100%" alt="Landing Page"/>
+            <img src="landing-page-img.png" width="100%" alt="Landing Page"/>
         </a>
         <br />
         <p align="center">
