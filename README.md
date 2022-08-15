@@ -33,7 +33,22 @@ I have made it my mission to improve the user experience of as many users as pos
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">P1</h3>
+      <h3 align="center">Performance Shop</h3>
+        <br />
+        <a target="_blank" href="https://car-tuning.netlify.app/">
+            <img src="" width="100%" alt="Landing Page"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/TimSchiemann/car-landing-page" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://car-tuning.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS & Javascript</strong> - An eye catching landing page that appears highly dynamic due to a carousel of embedded videos.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">P2</h3>        
